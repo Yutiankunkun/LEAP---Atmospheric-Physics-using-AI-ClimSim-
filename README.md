@@ -3,7 +3,7 @@
 In this competition, you’ll develop machine learning models that accurately emulate subgrid-scale atmospheric physics in an operational climate model—an important step in improving climate projections and reducing uncertainty surrounding future climate trends.
 
 ### Evalutaion
-\( R^2 = 1 - \frac{SS_{\text{res}}}{SS_{\text{tot}}} \)
+$$\( R^2 = 1 - \frac{SS_{\text{res}}}{SS_{\text{tot}}} \)$$
 
 ### Data Description
 train.csv - the training set
