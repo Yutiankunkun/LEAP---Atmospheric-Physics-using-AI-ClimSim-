@@ -20,6 +20,3 @@ Ranking：207/693<br>
 ### Solution
 Baseline：Keras seq2seq<br>
 Model：cnn＋transfomer<br>
-
-### Summary
-First time to have a competition, although it's a pity failed to get a medal. I have tried LSTM,1d-unet,resnet but did not improve.
